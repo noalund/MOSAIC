@@ -11,3 +11,5 @@ Rather than instructing the performer to determine the order of events, the piec
 In performance, the cellist reads notated fragments as they appear on screen, navigating the score with a foot pedal.
 At the same time, prerecorded samples are triggered at random intervals, creating brief interruptions.
 The work was premiered in 2024 and recorded shortly afterward.
+
+[Program Note](mosaic.pdf)
